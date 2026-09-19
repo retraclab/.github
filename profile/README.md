@@ -1,4 +1,4 @@
-<img width="2540" height="1258" alt="CleanShot 2026-09-19 at 11 25 13 AM@2x" src="https://github.com/user-attachments/assets/b35f15e1-9557-4208-a5c5-910230ef7d38" />
+<img width="2536" height="1264" alt="CleanShot 2026-09-19 at 2 40 31 PM@2x" src="https://github.com/user-attachments/assets/6b4e56d5-8763-4e8d-934e-766137a524d5" />
 
 ## Hi there, we're Retrac Labs 👋
 At Retrac Labs, we create next-level apps and services for everyone to use.
